@@ -12,6 +12,7 @@
 - [Gilbert Rosario](https://github.com/Gilbert1391)
 - [Robbie Martinus](https://github.com/rmartinus)
 - [Siddharth Saha](https://github.com/bear-my-wrath/)
+- [Ana Djurovic](https://github.com/giurra8)
 - [Paul Briar](https://github.com/paulbriar)
 - [Okenwa kenneth](https://github.com/Anekenonso)
 - [Yixin Jiang](https://github.com/yixinj)
